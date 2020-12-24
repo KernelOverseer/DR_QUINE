@@ -1,0 +1,3 @@
+- Update sully, make it create only one file, compile it and run it at a time
+
+- Add a makefile for the project
